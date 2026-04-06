@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Maheshwaran P
+#  Hi, I'm Maheshwaran P
 
 **Frontend / Full Stack Developer**  
 Building scalable, AI-powered web applications with clean architecture and production-ready code.
 
-## 📝 Professional Summary
+##  Professional Summary
 
 Motivated B.Tech IT student (expected graduation 2027) with hands-on experience building full-stack web applications. Developed an **AI-powered enterprise helpdesk** for the Smart India Hackathon 2025 (Ministry of Power) and a **live college task management platform** currently serving **1000+ users** across departments.  
 
@@ -11,7 +11,7 @@ Skilled in **React.js, Angular, Node.js, REST API design, NLP integration, role-
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 ### Frontend
 - React.js • Angular • TypeScript • JavaScript (ES6+)
@@ -38,7 +38,7 @@ Skilled in **React.js, Angular, Node.js, REST API design, NLP integration, role-
 
 ---
 
-## 💼 Work Experience
+##  Work Experience
 
 **Angular Intern**  
 **Infosys Springboard (Remote)**  
@@ -49,7 +49,7 @@ Skilled in **React.js, Angular, Node.js, REST API design, NLP integration, role-
 
 ---
 
-## 🚀 Featured Projects
+##  Projects
 
 ### SmartDesk – AI-Powered Helpdesk Ticketing System
 **Smart India Hackathon (SIH) 2025 • Problem #190 (Ministry of Power)**
@@ -79,7 +79,7 @@ Skilled in **React.js, Angular, Node.js, REST API design, NLP integration, role-
 
 ---
 
-## 🎓 Education
+##  Education
 
 **Bachelor of Technology in Information Technology**  
 **VSB Engineering College, Tamil Nadu**  
@@ -93,7 +93,7 @@ Skilled in **React.js, Angular, Node.js, REST API design, NLP integration, role-
 
 ---
 
-## 🏆 Certifications & Languages
+##  Certifications & Languages
 
 **Certifications**
 - Infosys Springboard – Angular Development
@@ -106,7 +106,7 @@ Skilled in **React.js, Angular, Node.js, REST API design, NLP integration, role-
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <!-- Replace `yourusername` with your actual GitHub username -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true)
@@ -116,7 +116,7 @@ Skilled in **React.js, Angular, Node.js, REST API design, NLP integration, role-
 
 **Thanks for visiting my GitHub profile!**  
 
-I'm always open to collaboration, internships, or discussions around full-stack development, AI integration, and building impactful products. Feel free to connect or reach out! 🚀
+I'm always open to collaboration, internships, or discussions around full-stack development, AI integration, and building impactful products. Feel free to connect or reach out! 
 
 ---
 
