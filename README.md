@@ -3,20 +3,6 @@
 **Frontend / Full Stack Developer**  
 Building scalable, AI-powered web applications with clean architecture and production-ready code.
 
----
-
-## 📍 Contact & Links
-
-- **Phone:** [+91 9442736953](tel:+919442736953)
-- **Email:** [maheshwaranpalanisamy1@gmail.com](mailto:maheshwaranpalanisamy1@gmail.com)
-- **Location:** Kangayam, Tamil Nadu, India
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername) <!-- Replace with your actual GitHub profile -->
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) <!-- Replace with actual link -->
-- **Portfolio:** [your-portfolio.com](https://your-portfolio.com) <!-- Replace with actual link -->
-- **LeetCode:** [leetcode.com/yourusername](https://leetcode.com/yourusername) <!-- Replace with actual link -->
-
----
-
 ## 📝 Professional Summary
 
 Motivated B.Tech IT student (expected graduation 2027) with hands-on experience building full-stack web applications. Developed an **AI-powered enterprise helpdesk** for the Smart India Hackathon 2025 (Ministry of Power) and a **live college task management platform** currently serving **1000+ users** across departments.  
