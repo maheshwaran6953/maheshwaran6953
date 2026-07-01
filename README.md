@@ -1,123 +1,147 @@
-#  Hi, I'm Maheshwaran P
+# Hi , I'm Maheshwaran P 👋
 
-**Frontend / Full Stack Developer**  
-Building scalable, AI-powered web applications with clean architecture and production-ready code.
+### Full Stack Developer | B.Tech IT Student | Building scalable web applications
 
-##  Professional Summary
+I'm a B.Tech Information Technology student at **V.S.B Engineering College** (2023–2027) and a passionate full stack developer focused on building real-world products with clean architecture, strong backend systems, and modern frontend experiences.
 
-Motivated B.Tech IT student (expected graduation 2027) with hands-on experience building full-stack web applications. Developed an **AI-powered enterprise helpdesk** for the Smart India Hackathon 2025 (Ministry of Power) and a **live college task management platform** currently serving **1000+ users** across departments.  
+- 🔭 Currently building scalable full stack applications
+- 🌱 Exploring advanced backend architecture, AI integration, and enterprise system design
+- 💼 Former Angular Intern at Infosys Springboard
+- 🎯 Interested in Full Stack Developer roles
+- 📍 Kangayam, Tamil Nadu, India
 
-Skilled in **React.js, Angular, Node.js, REST API design, NLP integration, role-based access control, and automated testing**. Strong focus on clean architecture, performance, and scalable solutions. Actively seeking a **Frontend or Full Stack Developer** role in a product-based company.
+## About Me
 
----
+I enjoy building products that solve practical problems — from academic workflow platforms to AI-powered helpdesk systems and financial backend engines.
 
-##  Technical Skills
+My work mainly focuses on:
+- Full stack web development
+- Backend architecture and API design
+- Role-based enterprise systems
+- AI-assisted workflows
+- Performance, scalability, and maintainability
+
+## Tech Stack
 
 ### Frontend
-- React.js • Angular • TypeScript • JavaScript (ES6+)
-- HTML5 • CSS3 • Tailwind CSS • Bootstrap
-- Context API • Framer Motion
+- React.js
+- Angular
+- TypeScript
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Tailwind CSS
+- Bootstrap
+- Framer Motion
 
 ### Backend
-- Node.js • Express.js
-- MySQL • MongoDB Atlas
-- JWT • bcrypt • REST API Design • node-cron
+- Node.js
+- Express.js
+- PostgreSQL
+- MySQL
+- MongoDB Atlas
+- REST APIs
+- JWT Authentication
+- bcrypt
+- Event Sourcing
 
-### AI / ML
-- NLP • Jaccard Similarity
-- Predictive Scoring • Knowledge Base Matching • Burnout Scoring
+### Advanced Concepts
+- RBAC
+- OpenTelemetry
+- Zod validation
+- Idempotency patterns
+- State machines
+- Three-way invoice matching
+- Risk scoring
+- NLP-based features
 
-### Tools & Platforms
-- Git • GitHub • Postman • Playwright (E2E Testing)
-- ExcelJS • PDFKit • Cloudinary • Multer
-- Vite • VS Code • Vercel • Render
+### Tools
+- Git & GitHub
+- Docker
+- Postman
+- Playwright
+- ExcelJS
+- PDFKit
+- Cloudinary
+- Multer
+- Vercel
+- Render
+- VS Code
 
-### Soft Skills
-- Problem Solving • Agile Collaboration
-- Team Communication • Attention to Detail
+## Featured Projects
 
----
+### Vanguard Settlement Engine
+A production-grade B2B invoice financing backend built with TypeScript, Node.js, PostgreSQL, and OpenTelemetry.
 
-##  Work Experience
+**Highlights:**
+- Event-sourced architecture for auditability
+- Idempotent ledger to prevent double payments
+- Three-way invoice matching and anomaly detection
+- Buyer risk scoring
+- RBAC with JWT authentication
+- Distributed tracing with OpenTelemetry
 
-**Angular Intern**  
-**Infosys Springboard (Remote)**  
-*Aug 2025 – Oct 2025*
+### SmartDesk
+An AI-powered helpdesk ticketing system built for Smart India Hackathon 2025.
 
-- Developed Angular standalone components and enhanced productivity tools using **CDK Drag-and-Drop**.
-- Engineered a fully functional **Kanban board** with persistent task arrangement and beginner-friendly onboarding documentation.
-
----
-
-##  Projects
-
-### SmartDesk – AI-Powered Helpdesk Ticketing System
-**Smart India Hackathon (SIH) 2025 • Problem #190 (Ministry of Power)**
-
-- Architected a complete full-stack enterprise helpdesk using **React, Node.js, MySQL, and NLP** with **36 REST APIs** covering authentication, ticket lifecycle, knowledge base, analytics, and exports.
-- Implemented **SLA enforcement** via node-cron with auto-escalation, breach risk scoring (0–100%), NLP-based priority suggestion, and Jaccard similarity for duplicate detection.
-- Built **14 React pages** across 3 role-based portals with JWT routing; added predictive AI for burnout scoring and 7-day forecasting.
-- Wrote **82 test cases** with full **Playwright** automation for reliable E2E coverage.
-
-**[GitHub Repository](https://github.com/yourusername/smartdesk)** • **[Live Demo](https://smartdesk-live-demo.vercel.app)** <!-- Replace with actual links -->
+**Highlights:**
+- Full stack system using React, Node.js, and MySQL
+- 36 REST APIs across authentication, ticketing, analytics, and export
+- SLA monitoring with auto-escalation
+- NLP priority suggestion
+- Duplicate ticket detection using similarity logic
+- Predictive analytics and Playwright-tested workflows
 
 ### College Task Management System
-**VSB Engineering College • 2026**
+A full stack academic task platform built for VSB Engineering College.
 
-- Delivered a production-ready full-stack platform using **React, TypeScript, Node.js, MongoDB, and Cloudinary** — **live with 1000+ users** across all departments.
-- Implemented **5-role access control** with anti-fake submission system, bulk Excel import for 500+ students, and Excel/PDF export using **ExcelJS & PDFKit**.
-- Deployed on **Vercel + Render** with real-time dashboard, live submission statistics, deadline tracking, and in-app notifications.
+**Highlights:**
+- Used by 1000+ users across departments
+- Multi-role access control
+- Anti-fake submission system
+- Bulk Excel import for 500+ students
+- PDF and Excel exports
+- Real-time dashboard and notification features
 
-**[GitHub Repository](https://github.com/yourusername/college-task-management)** • **[Live Demo](https://college-task-management.vercel.app)** <!-- Replace with actual links -->
+## Experience
 
-### Amazon Clone – Frontend Web App
+### Angular Intern — Infosys Springboard
+**Aug 2025 – Oct 2025**
+- Developed Angular standalone components
+- Worked with CDK Drag-and-Drop for productivity tools
+- Built Kanban-style task handling features
+- Improved onboarding and usability documentation
 
-- Built a **pixel-perfect** Amazon frontend clone using HTML, CSS, and JavaScript.
-- Features: Cart management, product listing, checkout flow, and persistent state using **LocalStorage**.
+## Education
 
-**[GitHub Repository](https://github.com/yourusername/amazon-clone)** • **[Live Demo](https://amazon-clone-demo.netlify.app)** <!-- Replace with actual links -->
+**B.Tech in Information Technology**  
+V.S.B Engineering College, Tamil Nadu  
+2023 – 2027 (Expected)  
+CGPA: 8.2
 
----
-
-##  Education
-
-**Bachelor of Technology in Information Technology**  
-**VSB Engineering College, Tamil Nadu**  
-*2023 – 2027 (Expected)*  
-**CGPA:** 8.2
-
-**12th Standard – HSC**  
-**Sri Vidhya Nikethan Matric Higher Secondary School, Kangayam**  
-*2023*  
-**Percentage:** 80.5%
-
----
-
-##  Certifications & Languages
-
-**Certifications**
+## Certifications
 - Infosys Springboard – Angular Development
-- NPTEL – Java (68%)
+- NPTEL – Java
 
-**Languages**
-- Tamil (Native)
-- English (Fluent)
-- Kannada (Conversational)
+## Coding Profiles & Links
+- GitHub: [github.com/maheshwaran6953](https://github.com/maheshwaran6953)
+- Portfolio: [maheshwaran-p.vercel.app](https://maheshwaran-p.vercel.app)
+- LinkedIn: Add your LinkedIn link here
+- LeetCode: Add your LeetCode link here
+
+## GitHub Stats
+
+![Maheshwaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=maheshwaran6953&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshwaran6953&layout=compact&theme=tokyonight)
+
+## What I'm Looking For
+I'm seeking opportunities where I can contribute as a **Full Stack Developer**, work on impactful products, and continue growing in backend systems, scalable architecture, and modern web development.
+
+## Connect With Me
+- Email: maheshwaranpalanisamy1@gmail.com
+- Portfolio: [maheshwaran-p.vercel.app](https://maheshwaran-p.vercel.app)
+- GitHub: [github.com/maheshwaran6953](https://github.com/maheshwaran6953)
 
 ---
 
-##  GitHub Stats
-
-<!-- Replace `yourusername` with your actual GitHub username -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)
-
----
-
-**Thanks for visiting my GitHub profile!**  
-
-I'm always open to collaboration, internships, or discussions around full-stack development, AI integration, and building impactful products. Feel free to connect or reach out! 
-
----
-
-*Last updated: April 2026*
+⭐ I enjoy building systems that are practical, scalable, and user-focused.
