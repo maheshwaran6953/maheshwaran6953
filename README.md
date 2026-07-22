@@ -1,205 +1,146 @@
-# 👋 Maheshwaran P
+<h1 align="center">Hi, I'm Maheshwaran P 👋</h1>
+<h3 align="center">Full Stack Developer | Backend-Leaning | Building Production-Grade Systems</h3>
 
-**Full Stack Developer | Enterprise Systems | Distributed Architecture**
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Full%20Stack%20Developer-brightgreen?style=flat-square" alt="Open to Work"/>
+</p>
 
-I'm a B.Tech IT student (2027) from VSB Engineering College, Tamil Nadu, building production-grade systems with a focus on scalability, clean architecture, and distributed design patterns. Passionate about solving complex problems through elegant code and architectural excellence.
+<p align="center">
+  <a href="https://www.linkedin.com/in/maheshwaran-palanisamy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:maheshwaranpalanisamy1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://maheshwaran-p.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/MAHESHWARAN_P/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+</p>
 
 ---
 
-## 🎯 About Me
+## 📌 About Me
 
-I specialize in **full-stack development** with deep expertise in **enterprise-scale backend systems**. I've shipped three production systems handling thousands of users, deployed on cloud infrastructure, and architected with industry-standard patterns.
+Motivated Full Stack Developer (fresher) focused on building and shipping scalable, production-grade systems. I care about clean architecture, distributed-systems fundamentals, and writing code that holds up under real-world failure conditions — not just demos.
 
-- 🏗️ **Backend-First Developer**: Strong foundation in Node.js, PostgreSQL, distributed systems, and event-driven architecture
-- ⚡ **Production-Ready**: All projects are live and handling real traffic
-- 📚 **Continuous Learner**: Committed to mastering clean architecture, system design, and best practices
-- 🔍 **Problem Solver**: Approach challenges with first-principles thinking and elegant solutions
+Currently pursuing **B.Tech in Information Technology** at VSB Engineering College (CGPA: 8.2, 2023–2027), and actively building backend-heavy systems involving event sourcing, idempotency, and observability, alongside full-stack products with real users.
 
-**Currently**: Finalizing B.Tech capstone and actively interviewing for Full Stack Developer roles
+📍 Kangayam, Tamil Nadu, India
 
 ---
 
 ## 🛠️ Technical Skills
 
-### **Frontend**
-- **Languages**: TypeScript, JavaScript (ES6+), HTML5, CSS3
-- **Frameworks**: React.js, Angular
-- **Styling**: Tailwind CSS, Bootstrap
-- **State Management**: Context API, Component-level state
-- **Testing**: Playwright (E2E automation)
-
-### **Backend**
-- **Runtime**: Node.js
-- **Framework**: Express.js
-- **Databases**: PostgreSQL (primary), MySQL, MongoDB
-- **Architecture**: REST API Design, Event Sourcing, Clean Architecture
-- **Authentication**: JWT, bcrypt
-- **Patterns**: Idempotency, State machines, RBAC
-- **Observability**: OpenTelemetry, distributed tracing
-
-### **Advanced**
-- **Financial Systems**: Three-way invoice matching, risk scoring, settlement engines
-- **Distributed Systems**: Event sourcing, event handlers, projections
-- **DevOps**: Docker, GitHub Actions
-- **Deployment**: Vercel (frontend), Render (backend), Railway
-
-### **Tools & Ecosystem**
-- **Version Control**: Git, GitHub
-- **Package Management**: npm, yarn
-- **API Testing**: Postman
-- **Database Tools**: pgAdmin, MongoDB Compass
-- **Development**: VS Code, Vite
+**Frontend:** React.js, TypeScript, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS
+**Backend:** Node.js, Express.js, PostgreSQL, MySQL, MongoDB, JWT, Event Sourcing, REST API Design
+**Advanced / Systems:** OpenTelemetry, RBAC, Idempotency Patterns, State Machines, Distributed Tracing, NLP, CI/CD
+**Tools & Deployment:** Git, GitHub, Docker, Postman, Vercel, Render
 
 ---
 
-## 💼 Featured Projects
+## 💼 Experience
 
-### 🏦 **Vanguard Settlement Engine** – B2B Invoice Financing Platform
-**Technologies**: TypeScript (strict), Node.js, PostgreSQL, OpenTelemetry, Docker
-
-A production-grade **100% working backend** for enterprise invoice financing with financial-grade reliability.
-
-**Key Features:**
-- **Event Sourcing Architecture**: Immutable event log with temporal queries and state reconstruction
-- **Idempotent Ledger**: Defence-in-depth with application + database UNIQUE constraints preventing double-payments under concurrent webhook failures
-- **Three-Way Invoice Matching**: ±2% variance detection with anomaly alerts and buyer risk scoring (0-75)
-- **Distributed Tracing**: OpenTelemetry integration with trace-log correlation for end-to-end observability
-- **Clean Architecture**: Repository pattern, Dependency Injection, zero coupling between business logic and HTTP layer
-- **Documentation**: 5 Architecture Decision Records (ADRs) covering tech stack, event sourcing, idempotency, risk engine, and observability
-
-**Impact**: 68 commits, production-ready, 100% TypeScript strict mode, comprehensive test coverage
-
-📍 **GitHub**: [maheshwaran6953/vanguard-settlement-engine](https://github.com/maheshwaran6953/vanguard-settlement-engine)
+**Angular Intern — Infosys Springboard** (Remote) · *Aug 2025 – Oct 2025*
+- Developed Angular standalone components using CDK Drag-and-Drop for internal productivity tools
+- Engineered a Kanban board with persistent task management, plus onboarding documentation for future interns
 
 ---
 
-### 🎫 **SmartDesk** – AI-Powered Helpdesk Ticketing System
-**Technologies**: React, Node.js, MySQL, NLP | **Recognition**: Smart India Hackathon 2025, Problem #190
+## 🚀 Featured Projects
 
-Enterprise helpdesk solution for the Ministry of Power with advanced automation and predictive AI.
+### 1. Vanguard Settlement Engine — B2B Invoice Financing Platform
+**Status:** Backend complete · Not yet deployed (no live demo)
+**Tech:** TypeScript, Node.js, PostgreSQL, OpenTelemetry
 
-**Key Features:**
-- **36 REST APIs**: Comprehensive coverage of auth, ticket lifecycle, knowledge base, analytics, and export workflows
-- **SLA Enforcement**: Automated escalation via node-cron with breach risk scoring (0-100%) and real-time alerts
-- **NLP-Powered Intelligence**: Priority suggestion engine with Jaccard similarity for duplicate detection
-- **Predictive Analytics**: Burnout scoring and 7-day support demand forecasting
-- **Multi-Role Portal**: 14 React pages across 3 role-based portals with JWT routing and granular permissions
-- **Reliability**: 82 Playwright test cases ensuring production-grade reliability
-- **Live Deployment**: github.io hosting with verified uptime
+<!-- 📸 ADD IMAGE HERE: architecture diagram of the event-sourcing / ledger flow, OR a screenshot of Postman requests + passing test output, since this is backend-only with no UI -->
+<!-- ![Vanguard Architecture](ADD_IMAGE_URL_HERE) -->
 
-**Impact**: Ministry of Power validation, real-world problem-solving, scalable architecture
+An enterprise-grade, event-driven B2B liquidity platform using AI risk-scoring and Virtual Account (VAN) orchestration.
 
-📍 **GitHub**: [maheshwaran6953/smart-helpdesk-ticketing](https://github.com/maheshwaran6953/smart-helpdesk-ticketing)  
-🌐 **Live Demo**: [maheshwaran6953.github.io/smart-helpdesk-ticketing](https://maheshwaran6953.github.io/smart-helpdesk-ticketing/)
+- Built a production-grade backend implementing **event sourcing** and an **idempotent ledger** (defence-in-depth) with **three-way invoice matching** to prevent double-payments under concurrent failure scenarios
+- Implemented **state machine enforcement** for settlement lifecycle integrity and **RBAC with JWT authentication** for access control
+- Instrumented the system with **OpenTelemetry distributed tracing** for full request observability
+- Authored **5 Architecture Decision Records (ADRs)** documenting key financial-system design patterns and trade-offs
 
----
-
-### 📋 **College Task Management System**
-**Technologies**: React, TypeScript, Node.js, MongoDB, Cloudinary
-
-Live platform serving 1000+ active users across VSB Engineering College with real-time collaboration.
-
-**Key Features:**
-- **Live with 1000+ Users**: Deployed on Vercel (frontend) + Render (backend) with verified active user base
-- **5-Role Access Control**: Admin, Coordinator, Evaluator, Student, Reviewer with granular permission enforcement
-- **Anti-Fake Submission System**: Custom verification questions set by coordinators, preventing unauthorized submissions
-- **Bulk Operations**: Excel import for 500+ students with transaction-based integrity; Excel/PDF export via ExcelJS and PDFKit
-- **Real-Time Dashboard**: Live submission stats, deadline tracking, and in-app notifications for all stakeholders
-- **Production DevOps**: Vercel + Render stack with auto-scaling and database optimization
-
-**Impact**: Live production system, real user validation, scalability proven at 1000+ concurrent users
-
-📍 **GitHub**: [PratapSakthivel/VSBEC-TASK-MANAGER](https://github.com/PratapSakthivel/VSBEC-TASK-MANAGER) (Collaborator)  
-🌐 **Live Demo**: [vsbec-task-manager.vercel.app](https://vsbec-task-manager.vercel.app)
+**[GitHub Repository →](https://github.com/maheshwaran6953/vanguard-settlement-engine)**
 
 ---
 
-## 🎓 Education & Certifications
+### 2. AI Novelty Pre-Check Agent — Student Research & Patent Disclosures
+**Status:** Live
+**Tech:** Python, FastAPI, LLM APIs, Semantic Search
 
-**Bachelor of Technology in Information Technology** (2023–2027)  
-VSB Engineering College, Tamil Nadu | CGPA: 8.2
+<!-- 📸 ADD IMAGE HERE: screenshot/GIF of a document upload + novelty check result screen -->
+<!-- ![AI Novelty Pre-Check Agent Demo](ADD_IMAGE_URL_HERE) -->
 
-**Professional Certifications**
-- Infosys Springboard – Angular Development
-- NPTEL – Java Programming (68%)
+An automated prior-art research agent that helps students and researchers check the novelty of their work before submission or filing.
 
-**Languages**
-- Tamil (Native) | English (Fluent) | Kannada (Conversational)
+- Built an agent that scans uploaded research documents against **arXiv** and **Semantic Scholar** to validate novelty and flag potential overlaps
+- Engineered **PDF parsing**, **semantic search integration**, and **LLM-powered analysis** to detect conceptual overlap with existing research, not just keyword matches
+- Integrated a complete **frontend–backend pipeline** for end-to-end document processing, from upload to novelty report
 
----
-
-## 💼 Work Experience
-
-**Angular Intern** | Infosys Springboard (Remote)  
-*Aug 2025 – Oct 2025*
-
-- Developed Angular standalone components using CDK Drag-and-Drop for enterprise productivity tools
-- Engineered Kanban board with persistent task management and beginner-friendly onboarding documentation
-- Contributed to codebase following enterprise Angular best practices and SOLID principles
+**[GitHub Repository →](https://github.com/maheshwaran6953/AI-Novelty-Pre-Check-Agent-for-Student-Research-Papers-and-Early-Patent-Disclosures)** · **[Live Demo →](https://ai-novelty-pre-check-agent-for-stud.vercel.app)**
 
 ---
 
-## 📊 GitHub Statistics
+### 3. SmartDesk — AI-Powered Helpdesk Ticketing System
+**Status:** Live · Built for Smart India Hackathon (SIH) 2025 — Ministry of Power problem statement
+**Tech:** React, Node.js, MySQL, NLP
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maheshwaran6953&show_icons=true&theme=vue&count_private=true)
+<!-- 📸 ADD IMAGE HERE: screenshot/GIF of the ticket dashboard or one of the 3 role portals -->
+<!-- ![SmartDesk Demo](ADD_IMAGE_URL_HERE) -->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maheshwaran6953&layout=compact&theme=vue)
+A full-stack enterprise helpdesk system built to automate ticket triage and SLA compliance for a large government department.
 
----
+- Architected a full-stack ITSM helpdesk for the **Ministry of Power** with **36 REST APIs** covering the complete ticket lifecycle
+- Implemented **SLA enforcement via node-cron**, automated **breach-risk scoring**, and **NLP-powered priority suggestion** using Jaccard similarity for duplicate ticket detection
+- Built **14 React pages** across **3 role-based portals** with JWT-secured routing, a **predictive burnout-scoring model** for support agents, and **86 Playwright test cases** to ensure production reliability
 
-## 🔍 What I'm Focused On
-
-- **System Design**: Architecting scalable, fault-tolerant distributed systems
-- **Event Sourcing & CQRS**: Building event-driven systems with audit trails and temporal queries
-- **Clean Architecture**: Enforcing separation of concerns and reducing coupling
-- **Production Engineering**: Observability, monitoring, and reliability in production systems
-- **Financial Systems**: Understanding settlement engines, idempotency, and payment processing patterns
-
----
-
-## 🤝 Let's Connect
-
-I'm actively looking for **Full Stack Developer** opportunities where I can contribute to production systems and learn from experienced engineers.
-
-📧 **Email**: [maheshwaranpalanisamy1@gmail.com](mailto:maheshwaranpalanisamy1@gmail.com)  
-💼 **LinkedIn**: [linkedin.com/in/maheshwaran-p](https://www.linkedin.com/in/maheshwaran-p)  
-🌐 **Portfolio**: [maheshwaran-p.vercel.app](https://maheshwaran-p.vercel.app)  
-💻 **LeetCode**: [leetcode.com/u/MAHESHWARAN_P](https://leetcode.com/u/MAHESHWARAN_P)  
-📞 **Phone**: [+91 9442736953](tel:+919442736953)
+**[GitHub Repository →](https://github.com/maheshwaran6953/smart-helpdesk-ticketing)** · **[Live Demo →](https://smart-helpdesk-ticketing-zeta.vercel.app/login)**
 
 ---
 
-## 🚀 Available For
+## 📂 Other Projects
 
-- **Full Stack Developer** roles (remote or on-site)
-- **Backend Engineer** positions focused on scalable systems
-- **Internships** in system design and distributed architecture
-- **Freelance Projects** involving full-stack development
+<!-- These were in your original README but aren't on your resume. Keeping them here as secondary work — confirm/replace repo links if these have moved. -->
 
----
+### College Task Management System
+**Tech:** React, TypeScript, Node.js, MongoDB, Cloudinary
 
-## 📝 Open Source Contributions
+<!-- 📸 ADD IMAGE HERE: screenshot/GIF of the task board or department dashboard -->
+<!-- ![College Task Management Demo](ADD_IMAGE_URL_HERE) -->
 
-I'm passionate about contributing to open-source projects. Check out my repositories for:
-- Vanguard Settlement Engine (full backend template)
-- SmartDesk helpdesk system (production patterns)
-- College Task Management (full-stack reference)
+- Replaced manual, paper-based task tracking across an entire college with a production platform, now **live with 1000+ users** across all departments
 
-Feel free to fork, star ⭐, and contribute!
+**[GitHub Repository →](<CONFIRM_REPO_URL>)** · **[Live Demo →](https://college-task-management.vercel.app)**
 
----
+### Amazon Clone
+**Tech:** *(confirm stack used)*
 
-## 💡 Philosophy
+<!-- 📸 ADD IMAGE HERE: screenshot/GIF of the homepage or cart/checkout flow -->
+<!-- ![Amazon Clone Demo](ADD_IMAGE_URL_HERE) -->
 
-> "Build systems that are **simple to understand**, **hard to misuse**, and **easy to scale**."
+- *(Add 1 short line here on what this project demonstrates — e.g. cart logic, payment integration, responsive design)*
 
-I believe in:
-- ✅ **Clean code first**: Readability over cleverness
-- ✅ **Architecture matters**: Good design compounds over time
-- ✅ **Test everything**: Confidence in production deployments
-- ✅ **Document decisions**: ADRs and commit messages tell the story
-- ✅ **Ship working software**: Perfection is the enemy of done
+**[GitHub Repository →](<CONFIRM_REPO_URL>)** · **[Live Demo →](https://amazon-clone-demo.netlify.app)**
 
 ---
 
-**Last Updated**: July 2026 | Based in Kangayam, Tamil Nadu, India
+## 📜 Certifications & Languages
+
+**Certifications:** Infosys Springboard – Angular Development · NPTEL – Java (68%)
+**Languages:** Tamil (Native) · English (Fluent) · Kannada (Conversational)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maheshwaran6953&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshwaran6953&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maheshwaran6953&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<!-- The stats card above already includes total contributions/commits in the current year — GitHub doesn't expose true lifetime commit count via a public badge, but the streak stats card shows total contributions since account creation, which is the closest public equivalent. -->
+
+---
+
+<p align="center"><i>Last updated: July 2026</i></p>
