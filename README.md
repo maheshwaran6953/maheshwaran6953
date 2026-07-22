@@ -66,6 +66,8 @@ An enterprise-grade, event-driven B2B liquidity platform using AI risk-scoring a
 **Tech:** Python, FastAPI, LLM APIs, Semantic Search
 
 <!-- 📸 ADD IMAGE HERE: screenshot/GIF of a document upload + novelty check result screen -->
+<img width="950" height="533" alt="image" src="https://github.com/user-attachments/assets/9f621d4c-f5ce-4dcd-9684-48e0f1e543c2" />
+
 <!-- ![AI Novelty Pre-Check Agent Demo](ADD_IMAGE_URL_HERE) -->
 
 An automated prior-art research agent that helps students and researchers check the novelty of their work before submission or filing.
@@ -83,6 +85,8 @@ An automated prior-art research agent that helps students and researchers check 
 **Tech:** React, Node.js, MySQL, NLP
 
 <!-- 📸 ADD IMAGE HERE: screenshot/GIF of the ticket dashboard or one of the 3 role portals -->
+<img width="938" height="526" alt="image" src="https://github.com/user-attachments/assets/c346902f-5b9f-4a93-8e32-08a3edea518a" />
+
 <!-- ![SmartDesk Demo](ADD_IMAGE_URL_HERE) -->
 
 A full-stack enterprise helpdesk system built to automate ticket triage and SLA compliance for a large government department.
@@ -103,21 +107,25 @@ A full-stack enterprise helpdesk system built to automate ticket triage and SLA 
 **Tech:** React, TypeScript, Node.js, MongoDB, Cloudinary
 
 <!-- 📸 ADD IMAGE HERE: screenshot/GIF of the task board or department dashboard -->
+<img width="949" height="530" alt="image" src="https://github.com/user-attachments/assets/bb04f22c-83c1-4026-97da-862475a8900d" />
+
 <!-- ![College Task Management Demo](ADD_IMAGE_URL_HERE) -->
 
 - Replaced manual, paper-based task tracking across an entire college with a production platform, now **live with 1000+ users** across all departments
 
-**[GitHub Repository →](<CONFIRM_REPO_URL>)** · **[Live Demo →](https://college-task-management.vercel.app)**
+**[GitHub Repository →](https://github.com/PratapSakthivel/VSBEC-TASK-MANAGER)** · **[Live Demo →](https://vsbec-task-manager.vercel.app/)**
 
 ### Amazon Clone
 **Tech:** *(confirm stack used)*
 
 <!-- 📸 ADD IMAGE HERE: screenshot/GIF of the homepage or cart/checkout flow -->
+![Uploading image.png…]()
+
 <!-- ![Amazon Clone Demo](ADD_IMAGE_URL_HERE) -->
 
 - *(Add 1 short line here on what this project demonstrates — e.g. cart logic, payment integration, responsive design)*
 
-**[GitHub Repository →](<CONFIRM_REPO_URL>)** · **[Live Demo →](https://amazon-clone-demo.netlify.app)**
+**[GitHub Repository →](https://github.com/maheshwaran6953/Amazon-project)** · **[Live Demo →](https://maheshwaran6953.github.io/Amazon-project/)**
 
 ---
 
