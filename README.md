@@ -27,8 +27,11 @@ Currently pursuing **B.Tech in Information Technology** at VSB Engineering Colle
 ## 🛠️ Technical Skills
 
 **Frontend:** React.js, TypeScript, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS
+
 **Backend:** Node.js, Express.js, PostgreSQL, MySQL, MongoDB, JWT, Event Sourcing, REST API Design
+
 **Advanced / Systems:** OpenTelemetry, RBAC, Idempotency Patterns, State Machines, Distributed Tracing, NLP, CI/CD
+
 **Tools & Deployment:** Git, GitHub, Docker, Postman, Vercel, Render
 
 ---
@@ -45,6 +48,7 @@ Currently pursuing **B.Tech in Information Technology** at VSB Engineering Colle
 
 ### 1. Vanguard Settlement Engine — B2B Invoice Financing Platform
 **Status:** Backend complete · Not yet deployed (no live demo)
+
 **Tech:** TypeScript, Node.js, PostgreSQL, OpenTelemetry
 
 <!-- 📸 ADD IMAGE HERE: architecture diagram of the event-sourcing / ledger flow, OR a screenshot of Postman requests + passing test output, since this is backend-only with no UI -->
@@ -63,6 +67,7 @@ An enterprise-grade, event-driven B2B liquidity platform using AI risk-scoring a
 
 ### 2. AI Novelty Pre-Check Agent — Student Research & Patent Disclosures
 **Status:** Live
+
 **Tech:** Python, FastAPI, LLM APIs, Semantic Search
 
 <!-- 📸 ADD IMAGE HERE: screenshot/GIF of a document upload + novelty check result screen -->
@@ -82,6 +87,7 @@ An automated prior-art research agent that helps students and researchers check 
 
 ### 3. SmartDesk — AI-Powered Helpdesk Ticketing System
 **Status:** Live · Built for Smart India Hackathon (SIH) 2025 — Ministry of Power problem statement
+
 **Tech:** React, Node.js, MySQL, NLP
 
 <!-- 📸 ADD IMAGE HERE: screenshot/GIF of the ticket dashboard or one of the 3 role portals -->
@@ -119,7 +125,8 @@ A full-stack enterprise helpdesk system built to automate ticket triage and SLA 
 **Tech:** *(confirm stack used)*
 
 <!-- 📸 ADD IMAGE HERE: screenshot/GIF of the homepage or cart/checkout flow -->
-![Uploading image.png…]()
+<img width="941" height="532" alt="image" src="https://github.com/user-attachments/assets/53846c69-76dc-4574-83b9-c3bc23ce37dc" />
+
 
 <!-- ![Amazon Clone Demo](ADD_IMAGE_URL_HERE) -->
 
@@ -132,6 +139,7 @@ A full-stack enterprise helpdesk system built to automate ticket triage and SLA 
 ## 📜 Certifications & Languages
 
 **Certifications:** Infosys Springboard – Angular Development · NPTEL – Java (68%)
+
 **Languages:** Tamil (Native) · English (Fluent) · Kannada (Conversational)
 
 ---
